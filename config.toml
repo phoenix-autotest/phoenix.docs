@@ -1,0 +1,21 @@
+baseURL = "http://phoenix-autotest.github.io/phoenix.docs.site/"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh"
+title = "PhoenixAutotest Docs"
+theme = "gohugoioTheme"
+
+[[menu.global]]
+	name = "文档"
+	url = "/docs"
+	identifer = "docs"
+	weight = 100
+[[menu.global]]
+	name = "示例"
+	url = "/examples"
+	identifer = "examples"
+	weight = 200
+[[menu.global]]
+	name = "贡献"
+	url = "/contributes"
+	identifer = "contributes"
+	weight = 300
