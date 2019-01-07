@@ -1,3 +1,9 @@
+---
+title: 快速入门
+description: 自动化框架PhoenixAutotest快速入门
+toc: true
+---
+
 ## 前言
 本文档主要介绍selenium自动化框架PhoenixAutotest，并且会用一个简单的demo来描述如何使用该框架。
   
